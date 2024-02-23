@@ -16,7 +16,7 @@
         ?>
         <div>
             <br>
-            <img src="<?php echo $image_url;?>" width="1135" height="655" alt="under construction" class="mainImg" unselectable="on" >
+            <img src="<?php echo $image_url;?>" width="1135" height="655" alt="under construction" class="mainImg" unselectable="no" >
         </div>
     </body>
 </html>
